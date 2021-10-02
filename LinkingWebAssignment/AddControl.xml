@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>C:\Users\anant\source\repos\LinkingWebAssignment\LinkingWebAssignment\Images\1.PNG</ImageUrl>
+    <NavigateUrl>https://www.google.co.in/?gws_rd=ssl</NavigateUrl>
+    <Impressions>100</Impressions>
+    <Keyword>Header</Keyword>
+    <Category>Script</Category>
+  </Ad>
+</Advertisements>
